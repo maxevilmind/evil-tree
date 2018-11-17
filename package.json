@@ -1,0 +1,8 @@
+{
+  "name": "evil-btree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Max Evilmind",
+  "license": "MIT",
+  "private": false
+}
